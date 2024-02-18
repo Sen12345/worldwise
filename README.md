@@ -1,6 +1,6 @@
 # React + Vite
-## Use this app to view your own location, add/remove countries, cities that you have visited and add comments about your visits
-## This app built using complex react tools such as Context API, useGeolocation, useSearchParams, and useEffect hooks
+## Use this app to view your own location on on the auto generated geolocation map, add/remove countries, cities that you have visited and add comments about your visits
+## This app built using complex react tools such as Context API, React Router, CSS Modules, useGeolocation, useSearchParams, and useEffect hooks
 ## It has a fake login system just for demo perposes
 ## It also use a json file containing a list of cities to use as a fake api, this file can be launch from the data folder within the main directory, please find relevant commands below
 
